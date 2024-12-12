@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GaussDB.BasicTest": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
